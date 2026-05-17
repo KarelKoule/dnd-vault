@@ -1,0 +1,1 @@
+jedna ze 4 skupinek
