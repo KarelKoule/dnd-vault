@@ -11,17 +11,54 @@
             "id": "c0e83746b4c7b2eb",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Monsters/Wolf.png"
+              },
+              "icon": "lucide-image",
+              "title": "Wolf"
+            }
+          },
+          {
+            "id": "5aeee76df135adbd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Monsters/Ogre.png"
+              },
+              "icon": "lucide-image",
+              "title": "Ogre"
+            }
+          },
+          {
+            "id": "244c7d5f42fdb857",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Monsters/Bugbear Warrior.png"
+              },
+              "icon": "lucide-image",
+              "title": "Bugbear Warrior"
+            }
+          },
+          {
+            "id": "7a109a720d8c9b51",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Oblezeni v Lathanderove prevorstvi/Svitani.md",
+                "file": "Oblezeni v Lathanderove prevorstvi/Zacatek oblezeni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Svitani"
+              "title": "Zacatek oblezeni"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblezeni v Lathanderove prevorstvi/Svitani.md",
+                "file": "Oblezeni v Lathanderove prevorstvi/Zacatek oblezeni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Svitani"
+              "title": "Backlinks for Zacatek oblezeni"
             }
           },
           {
@@ -182,15 +219,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "c0e83746b4c7b2eb",
+  "active": "8ef06bb8e43cd6f7",
   "lastOpenFiles": [
+    "Monsters/Hobgoblin Warrior.png",
+    "Monsters/Goblin Boss.png",
+    "Monsters/Bugbear Warrior.png",
+    "Monsters/Ogre.png",
+    "Monsters/Wolf.png",
     "Oblezeni v Lathanderove prevorstvi/Overview.md",
-    "Oblezeni v Lathanderove prevorstvi/Svitani.md",
-    "Oblezeni v Lathanderove prevorstvi/Nocni utoky.md",
-    "Oblezeni v Lathanderove prevorstvi/Zaver.md",
-    "Oblezeni v Lathanderove prevorstvi/Zacatek oblezeni.md",
+    "Monsters",
     "Oblezeni v Lathanderove prevorstvi/Najezd.md",
     "Oblezeni v Lathanderove prevorstvi/mapa prevorstvi.png",
+    "Oblezeni v Lathanderove prevorstvi/Nocni utoky.md",
+    "Oblezeni v Lathanderove prevorstvi/Svitani.md",
+    "Oblezeni v Lathanderove prevorstvi/Zacatek oblezeni.md",
+    "Pasted image 20260517195327.png",
+    "Monsters/Goblin Warrior.png",
+    "Goblin Warrior.md",
+    "Oblezeni v Lathanderove prevorstvi/Goblin Warrior.md",
+    "Oblezeni v Lathanderove prevorstvi/Zaver.md",
     "The Awakening of Moander/Chapter 1/The Mark of the First Whisper.md",
     "Oblezeni v Lathanderove prevorstvi",
     "The Awakening of Moander/Chapter 1/Puzzle to open Moander's shrine.md",
@@ -211,9 +258,6 @@
     "The Awakening of Moander/Why seven sites across Faerun?.md",
     "The Awakening of Moander/Chapter 1",
     "Untitled.canvas",
-    "The Awakening of Moander",
-    "These rituals.md",
-    "Welcome.md",
-    "create a link.md"
+    "The Awakening of Moander"
   ]
 }

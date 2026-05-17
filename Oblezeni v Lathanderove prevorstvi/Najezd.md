@@ -1,3 +1,3 @@
-3 goblin Warriors
-1 Goblin Boss
-on wolves
+3 [[Goblin Warrior.png]]
+1 [[Goblin Boss.png]]
+on [[Wolf.png]]
