@@ -1,9 +1,10 @@
 ![[mapa prevorstvi.png]]
 
 ### Postavy v prevorstvi
-- Priest Acolyte - Nevim Highbender - lecitel
+- [Priest Acolyte](http://aidedd.org/monster/priest-acolyte) - Nevim Highbender - lecitel
 - Kucharka - Viga Tallsinger
-- Straze - Fizud a Elud
+- [Straze](https://aidedd.org/monster/guard) - Fizud a Elud
+- [Rytir](https://aidedd.org/monster/knight) -  Abrelm Moltenhelm
 
 ### Rytirska zachrana
 - Priest of Lathander - Berdar Nikha 

@@ -1,20 +1,20 @@
 
 
-| #     | Whisper                           | Performed By                                            | Number of Rites  | Site Type                                             | Tier                    |
-| ----- | --------------------------------- | ------------------------------------------------------- | ---------------- | ----------------------------------------------------- | ----------------------- |
-| **1** | [[🔥 Whisper 1 The Hollow Earth]] | Low-level cultist cells (4–8 simultaneous rites)        | ~6 across Faerûn | [[🏛️ The Layered Site — Hollowford's Shrine of Tyr]] | **Levels 1–4**          |
-| **2** | **Whisper of Bone**               | Mid-low cult lieutenants (3–4 sites)                    | ~4               | Dragon graveyards                                     | **Levels 4–6**          |
-| **3** | **Whisper of Weave**              | Cult mages, "Wearers of Purple" (2–3 sites)             | ~3               | Netherese ruins, ley-line junctions                   | **Levels 6–8**          |
-| **4** | **Whisper of Hunger**             | Senior Wearers of Purple + a captured priest            | 1 large site     | Major corrupted shrine of Moander                     | **Levels 8–10**         |
-| **5** | **Whisper of the Word**           | The cult's high council (the "Council of the Speaking") | 1 site           | A place of fate/divination                            | **Levels 10–12**        |
-| **6** | **Whisper of Crown**              | **Sammaster himself**, with a captured great dragon     | 1 site           | The dragon's lair, or a prepared sanctum              | **Levels 12–15**        |
-| **7** | **Whisper of Devouring**          | **Sammaster himself**, alone with the Heart             | 1 site           | **The Tomb of Moander**                               | **Levels 15+ — Finale** |
+| #     | Whisper                           | Provádí                                                    | Počet rituálů    | Typ místa                                             | Úroveň hráčů    |
+| ----- | --------------------------------- | ---------------------------------------------------------- | ---------------- | ----------------------------------------------------- | --------------- |
+| **1** | [[🔥 Whisper 1 The Hollow Earth]] | Nízkourovňové kultní buňky (4–8 souběžných rituálů)        | ~6 po celém Faerûnu | [[🏛️ The Layered Site — Hollowford's Shrine of Tyr]] | **1–4**         |
+| **2** | **Whisper of Bone**               | Středně-nízkoúrovňoví kultní poručíci (3–4 místa)          | ~4               | Dračí hřbitovy                                        | **4–6**         |
+| **3** | **Whisper of Weave**              | Kultní mágové, „Nositelé Fialové" (2–3 místa)              | ~3               | Netherské ruiny, uzel ley-line                        | **6–8**         |
+| **4** | **Whisper of Hunger**             | Starší Nositelé Fialové + zajatý kněz                      | 1 velké místo    | Hlavní zkažená Moanderova svatyně                     | **8–10**        |
+| **5** | **Whisper of the Word**           | Vysoká rada kultu („Rada Mluvících")                       | 1 místo          | Místo osudu/věštění                                   | **10–12**       |
+| **6** | **Whisper of Crown**              | **Sammaster sám**, se zajatým starým drakem                | 1 místo          | Dračí doupě nebo připravené sanctum                   | **12–15**       |
+| **7** | **Whisper of Devouring**          | **Sammaster sám**, o samotě se Srdcem                      | 1 místo          | **Moanderova hrobka**                                 | **15+ — Finále** |
 
-### Why this works:
+### Proč to funguje:
 
-- **Whispers 1–2** generate **raw essence** that flows through ley-line networks toward Moander's tomb, like watering a seed.
-- **Whisper 3** prepares the **conduit** — Sammaster's own form must be tuned to channel divine energy without dissolving.
-- **Whisper 4** wakes Moander's Heart from full dormancy to active stirring.
-- **Whisper 5** locks the prophecy into fate; this is the point of no return.
-- **Whisper 6** creates the dracolich vessel Sammaster will inhabit during ascension.
-- **Whisper 7** is the consumption.
+- **Šepoty 1–2** generují **surovou esenci**, která proudí sítí ley-line k Moanderově hrobce, jako zalévání semene.
+- **Šepot 3** připravuje **kanál** — Sammasterova vlastní podoba musí být naladěna tak, aby mohla přenášet božskou energii bez rozpuštění.
+- **Šepot 4** probouzí Moanderovo Srdce z plného spánku k aktivnímu pohybu.
+- **Šepot 5** uzamkne proroctví do osudu; od tohoto bodu není cesty zpět.
+- **Šepot 6** vytvoří drakolichou nádobu, kterou Sammaster obsadí při vzestupu.
+- **Šepot 7** je pohlcení samotné.

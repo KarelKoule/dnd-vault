@@ -1,20 +1,23 @@
 
-### The history (for your eyes)
+### Historie (jen pro DM)
 
-- **~1400 years ago** — A small temple-shrine to **Moander** stood here, built by a fringe cult during the Jawed God's most active period. It was modest: an underground sanctum carved into a natural cavern, with a surface altar.
-    
-- **~1100 years ago** — The Moanderites were hunted down and killed. The surface altar was destroyed; the underground sanctum was sealed and **forgotten.** The land was salted and abandoned.
-    
-- **~300 years ago** — Settlers, unaware of the history, built **Hollowford** village on the recovered land. The soil grew rich again.
-    
-- **~80 years ago** — A wandering paladin of **Tyr**, sensing a _"weight of old wrong"_ in the land (without knowing its source), consecrated the site and oversaw construction of a **small Tyran shrine**. The shrine has served the village ever since. The current priestess is **Sister Ilmra** (Chauntea-trained but serving Tyr's shrine — small villages share clergy).
-    
-    _Note:_ Tyr's consecration didn't cleanse Moander's tomb — it **sealed it more firmly.** The two layers of holy-then-unholy-then-holy are precisely what made the site **resonant** for Whisper 1. The cult needed a place where Moander's essence still lingered but was **dampened** by overlying sanctity, so the ritual could "wake" it gently rather than violently.
-    
+- **~1400 let zpět** — Na tomto místě stála malá chrámová svatyně **Moandera**, postavená okrajovým kultem v době největší aktivity Bezzubého Boha. Skromná stavba: podzemní sanctum vytesané do přirozené jeskyně s povrchovým oltářem.
 
-### The physical layout
+- **~1100 let zpět** — Moanderité byli vysledováni a vyvražděni. Povrchový oltář byl zničen; podzemní sanctum bylo zapečetěno a **zapomenuto.** Půda byla posypána solí a opuštěna.
 
-- **Surface:** The Tyran shrine — a modest stone building, scales-and-sword iconography, a small graveyard behind it. Sister Ilmra lives in an attached cottage.
-- **Below the shrine floor:** A natural cavern, sealed for over a millennium. Access was through a forgotten **stone slab beneath the altar** — its existence not even known to the current priesthood.
+- **~300 let zpět** — Osadníci, bez ponětí o historii, postavili vesnici **Hollowford** na zotavené půdě. Půda znovu zúrodnila.
 
-	Moander's shrine is also sealed with a [[Puzzle to open Moander's shrine]] 
+- **~80 let zpět** — Potulný paladin **Tyra**, Sir Caedrin Lawhand, přišel do Hollowfordu. Při stavbě kaple dělníci odkryli kamennou desku pokrytou symboly, které Caedrin neznal — ale okamžitě cítil zlo pod ní. Desku neotevřel. Místo toho **postavil oltář těsně před ni** jako fyzickou i božskou clonu, posvětil celé místo a svůj čin zaznamenal do nápisu nad dveřmi: _„Nejdřív viz. Pak suď. Pak jednej."_ Věděl, že tam něco je. Zvolil pohřbít to hlouběji, místo aby to konfrontoval. Nynější kněžka **sestra Ilmra** o desce neví.
+
+    Deska je přístupná ze strany oltáře — páčidlem se dá posunout bez hnutí oltářem samotným.
+
+    _Poznámka:_ Tyrovo posvěcení Moanderovu hrobku nevyčistilo — **zapečetilo ji pevněji.** Právě tato vrstvená struktura (svaté nad nesvátým nad svatým) způsobila, že místo bylo pro Whisper 1 **rezonantní**. Kult potřeboval místo, kde Moanderova podstata stále doutná, ale je tlumena nadloženou posvátností, aby rituál mohl esenci „probudit" jemně, nikoliv násilně.
+
+---
+
+### Fyzický layout
+
+- **Povrch:** Tyrova kaple — skromná kamenná stavba s ikonografií vah a meče, malý hřbitov za ní. Sestra Ilmra bydlí v přilehlém domku.
+- **Pod podlahou kaple:** Přirozená jeskyně, zapečetěná po více než tisíciletí. Přístup je přes **kamennou desku u základny oltáře** — záměrně umístěnou Caedrinerm jako pečeť. Ilmra o ní nevěděla. Yarrow ji našel čtvrtý den po příjezdu.
+
+	Moanderova svatyně je zapečetěna i puzzlem: [[Puzzle to open Moander's shrine]]

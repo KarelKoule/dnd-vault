@@ -1,66 +1,67 @@
-### Vessen, the Cult Acolyte _(leader)_
 
-_A nervous, hollow-cheeked young man in a road-stained cloak. The dragon-eye medallion is hidden under his shirt._
+### Vessen, kultní akolyta _(vůdce)_
 
-**Medium humanoid (human, cultist), neutral evil**
+_Nervózní mladý muž s vpadlými tvářemi v silničním plášti. Medailonek dračího oka má schovaný pod košilí._
 
-- **AC** 12 (leather armor)
+**Střední humanoid (člověk, kultista), neutrální zlo**
+
+- **AC** 12 (kožená zbroj)
 - **HP** 22 _(4d8+4)_
-- **Speed** 30 ft.
+- **Pohyb** 9 m
 - **STR** 11 (+0) | **DEX** 14 (+2) | **CON** 12 (+1) | **INT** 10 (+0) | **WIS** 13 (+1) | **CHA** 11 (+0)
-- **Skills** Deception +2, Religion +2
-- **Senses** passive Perception 11
-- **Languages** Common, Draconic
-- **CR** 1/2 (100 XP) — _bumped to 200 XP because of spellcasting threat_
+- **Dovednosti** Klamání +2, Náboženství +2
+- **Smysly** pasivní Vnímání 11
+- **Jazyky** Obecná řeč, Dračí
+- **CR** 1/2 (100 XP) — _navýšeno na 200 XP kvůli hrozbě sesílání kouzel_
 
-**Dark Devotion.** Vessen has advantage on saving throws against being charmed or frightened.
+**Temná oddanost.** Vessen má výhodu k záchranným hodům proti zmámení a vystrašení.
 
-**Spellcasting (1st-level cleric, Death/Trickery flavor).** Spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). Has the following spells prepared:
+**Sesílání kouzel (klerik 1. úrovně, zaměření smrt/lest).** Sesílací vlastnost je Moudrost (SO záchrany 11, +3 k útoku kouzlem). Připravená kouzla:
 
-- _Cantrips (at will):_ **Sacred Flame, Thaumaturgy**
-- _1st level (3 slots):_ **Inflict Wounds, Bane, Shield of Faith**
+- _Triky (libovolně):_ **Sacred Flame, Thaumaturgy**
+- _1. úroveň (3 pozice):_ **Inflict Wounds, Bane, Shield of Faith**
 
-**Actions**
+**Akce**
 
-_**Shortsword.**_ _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6+2) piercing damage.
+_**Krátký meč.**_ _Útok na blízko:_ +4 k útoku, dosah 1,5 m, jeden cíl. _Zásah:_ 5 (1k6+2) bodný.
 
-_**Sacred Flame (cantrip).**_ One creature within 60 ft. must succeed on a DC 11 Dex save or take 4 (1d8) radiant damage. Ignores cover.
+_**Sacred Flame (trik).**_ Jeden tvor do 18 m musí uspět v záchraně na Obratnost SO 11, jinak utrpí 4 (1k8) zářivého poškození. Ignoruje kryt.
 
-_**Inflict Wounds (1st level).**_ _Melee Spell Attack:_ +3 to hit, reach 5 ft. _Hit:_ 9 (3d10) necrotic damage.
+_**Inflict Wounds (1. úroveň).**_ _Útok kouzlem na blízko:_ +3 k útoku, dosah 1,5 m. _Zásah:_ 9 (3k10) nekrotického poškození.
 
-**Tactics.**
+**Taktika**
 
-- **Round 1:** Casts _**Inflict Wounds**_ at Matreous if adjacent (he won't be — Vessen hangs back). Otherwise casts _**Bane**_ on up to three party members.
-- **Round 2:** _**Sacred Flame**_ at Matreous (priority) or whoever is healing.
-- **Round 3+:** _**Shield of Faith**_ on himself if hurt; otherwise keeps Sacred Flaming.
-- **At ½ HP (11 HP):** Tries to **Disengage and flee** into the woods. Drops spell slot to maintain Bane if it's still up. He **does not fight to the death** — his orders are _"leave nothing of yourselves,"_ meaning he is supposed to escape if the job goes wrong.
-- **If captured:** Bites down on a poison capsule on round 1 of interrogation (auto-fails save, falls unconscious; DC 15 Medicine to stabilize, otherwise dies in 3 rounds). Maximum drama.
+- **Kolo 1:** Sešle _**Inflict Wounds**_ na Matreouse, pokud stojí blízko (nestojí — Vessen zůstává vzadu). Jinak sešle _**Bane**_ na až tři členy skupiny.
+- **Kolo 2:** _**Sacred Flame**_ na Matreouse (priorita) nebo na toho, kdo léčí.
+- **Kolo 3+:** _**Shield of Faith**_ na sebe, pokud je zraněn; jinak pokračuje v Sacred Flame.
+- **Pod ½ HP (11 HP):** Pokouší se odpoutat a uprchnout do lesa. Udržuje Bane, pokud je aktivní. **Nebojuje na smrt** — jeho rozkaz zní _„nezanechávejte po sobě nic,"_ tedy pokud se věci pokazí, má utéct.
+- **Pokud je zajat:** V prvním kole výslechu překousne kapsli s jedem (automaticky neuspěje v záchraně, upadne do bezvědomí; DC 15 Medicína k stabilizaci, jinak zemře do 3 kol). Maximální drama.
 
 ---
 
-### Bren & Hask, Cult Bandits
+### Bren & Hask, kultní bandité
 
-_Use the standard **Bandit** stat block (Monster Manual p. 343). Reproduced here for convenience:_
+_Standardní stat block **Bandit** (Monster Manual s. 343). Přetisknuto pro pohodlí:_
 
-**Medium humanoid (human), any non-good alignment**
+**Střední humanoid (člověk), libovolně nezákonné přesvědčení**
 
-- **AC** 12 (leather armor)
+- **AC** 12 (kožená zbroj)
 - **HP** 11 _(2d8+2)_
-- **Speed** 30 ft.
+- **Pohyb** 9 m
 - **STR** 11 (+0) | **DEX** 12 (+1) | **CON** 12 (+1) | **INT** 10 (+0) | **WIS** 10 (+0) | **CHA** 10 (+0)
-- **Senses** passive Perception 10
-- **Languages** Common
+- **Smysly** pasivní Vnímání 10
+- **Jazyky** Obecná řeč
 - **CR** 1/8 (25 XP)
 
-**Actions**
+**Akce**
 
-_**Scimitar.**_ _Melee Weapon Attack:_ +3 to hit, reach 5 ft. _Hit:_ 4 (1d6+1) slashing damage.
+_**Scimitar.**_ _Útok na blízko:_ +3 k útoku, dosah 1,5 m, jeden cíl. _Zásah:_ 4 (1k6+1) sečný.
 
-_**Light Crossbow.**_ _Ranged Weapon Attack:_ +3 to hit, range 80/320 ft., one target. _Hit:_ 5 (1d8+1) piercing damage.
+_**Light Crossbow.**_ _Útok na dálku:_ +3 k útoku, dostřel 24/96 m, jeden cíl. _Zásah:_ 5 (1k8+1) bodný.
 
-**Tactics.**
+**Taktika**
 
-- **Round 1:** Both fire **light crossbows at Matreous** from cover (3/4 cover behind trees, +5 AC for him → his AC 13 becomes effective AC 18 against them). This is **important** — they will likely miss or do small damage in round 1, which sets the menace without dropping Matreous instantly.
-- **Round 2:** If Matreous still up and party closing, drop crossbows, draw scimitars, charge to engage party melee.
-- **Round 3+:** Standard melee. Will fight until ~3 HP, then attempt to flee.
-- **Morale:** If Vessen flees or dies, Bren and Hask check morale — roll a d6, on 1–3 they break and run on their next turn.
+- **Kolo 1:** Oba střílí **kuší na Matreouse** z krytu (3/4 kryt za stromy, +5 AC pro něj → jeho AC 13 se stane efektivním AC 18). To je **důležité** — pravděpodobně mine nebo způsobí malé poškození v kole 1, což nastolí hrozbu aniž by Matreouse okamžitě srazilo.
+- **Kolo 2:** Pokud Matreous stojí a skupina se přibližuje, odhodí kuše, vytáhnou šavle, zaútočí v boji na blízko.
+- **Kolo 3+:** Standardní boj. Budou bojovat do ~3 HP, pak se pokusí utéct.
+- **Morálka:** Pokud Vessen uprchne nebo zemře, Bren a Hask testují morálku — hoď k6, při 1–3 v příštím tahu utečou.

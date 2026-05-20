@@ -11,12 +11,14 @@
             "id": "7a109a720d8c9b51",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Oblezeni v Lathanderove prevorstvi/mapa prevorstvi.png"
+                "file": "The Awakening of Moander/Chapter 1/🔒 Puzzle — Caedrin's Hidden Compartment.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "mapa prevorstvi"
+              "icon": "lucide-file",
+              "title": "🔒 Puzzle — Caedrin's Hidden Compartment"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oblezeni v Lathanderove prevorstvi/mapa prevorstvi.png",
+                "file": "The Awakening of Moander/Chapter 1/🔒 Puzzle — Caedrin's Hidden Compartment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for mapa prevorstvi"
+              "title": "Backlinks for 🔒 Puzzle — Caedrin's Hidden Compartment"
             }
           },
           {
@@ -182,49 +184,50 @@
   },
   "active": "7a109a720d8c9b51",
   "lastOpenFiles": [
-    "Oblezeni v Lathanderove prevorstvi/Zaver.md",
-    "Oblezeni v Lathanderove prevorstvi/Zacatek oblezeni.md",
-    "Oblezeni v Lathanderove prevorstvi/Svitani.md",
-    "Oblezeni v Lathanderove prevorstvi/Overview.md",
-    "Oblezeni v Lathanderove prevorstvi/Nocni utoky.md",
-    "Oblezeni v Lathanderove prevorstvi/Najezd.md",
-    "Monsters/Bugbear Warrior.png",
-    "aidedd.org/monster/ogre.md",
-    "aidedd.org/monster",
-    "aidedd.org",
-    "Og[aidedd.org/monster/ogre]()re.md",
-    "Og[aidedd.org/monster",
-    "Og[aidedd.org",
-    "Ogre(aidedd.org/monster/ogre).md",
-    "Ogre(aidedd.org/monster",
-    "Ogre(aidedd.org",
-    "Monsters/Ogre.png",
-    "Monsters/Goblin Boss.png",
-    "Monsters/Hobgoblin Warrior.png",
-    "Monsters/Wolf.png",
-    "Monsters",
-    "Oblezeni v Lathanderove prevorstvi/mapa prevorstvi.png",
-    "Pasted image 20260517195327.png",
-    "Monsters/Goblin Warrior.png",
-    "Goblin Warrior.md",
-    "Oblezeni v Lathanderove prevorstvi/Goblin Warrior.md",
-    "The Awakening of Moander/Chapter 1/The Mark of the First Whisper.md",
-    "Oblezeni v Lathanderove prevorstvi",
-    "The Awakening of Moander/Chapter 1/Puzzle to open Moander's shrine.md",
+    "The Awakening of Moander/Chapter 1/🔒 Puzzle — Caedrin's Hidden Compartment.md.tmp.529438.6bc4a5098daf",
+    "The Awakening of Moander/Chapter 1/🎲 DM — Session Guide.md.tmp.529438.4decb3df4256",
+    "The Awakening of Moander/Chapter 1/🗺️ Cíl vyšetřování — co musí hráči zjistit.md.tmp.529438.2a9db53c291b",
+    "The Awakening of Moander/Chapter 1/🏛️ The Layered Site — Hollowford's Shrine of Tyr.md.tmp.529438.97aea66ccb6a",
+    "The Awakening of Moander/Chapter 1/🔒 Puzzle — Caedrin's Hidden Compartment.md.tmp.529438.e4f09246c0cb",
+    "The Awakening of Moander/Chapter 1/🗺️ Cíl vyšetřování — co musí hráči zjistit.md.tmp.529438.38785da57c8c",
+    "The Awakening of Moander/Chapter 1/🎲 DM — Session Guide.md.tmp.529438.325f3bb824d9",
+    "The Awakening of Moander/Chapter 1/🏛️ The Layered Site — Hollowford's Shrine of Tyr.md.tmp.529438.601d357d838f",
+    "The Awakening of Moander/Chapter 1/🏛️ The Layered Site — Hollowford's Shrine of Tyr.md",
+    "The Awakening of Moander/Chapter 1/🔒 Puzzle — Caedrin's Hidden Compartment.md",
+    "Mazfroths Mighty Digressions/Amberdune Books.md",
+    "The Awakening of Moander/Chapter 1/🔒 Puzzle — Caedrin's Hidden Compartment.md.tmp.529438.d0dfb5fa427e",
+    "The Awakening of Moander/Chapter 1/🎲 DM — Session Guide.md.tmp.529438.9781c2177147",
+    "The Awakening of Moander/Chapter 1/🔒 Puzzle — Caedrin's Hidden Compartment.md.tmp.529438.c2cac11ec593",
+    "Mazfroths Mighty Digressions/Overview.md",
+    "Mazfroths Mighty Digressions/Yalerion Highscroll.md",
+    "Mazfroths Mighty Digressions/Valor.md",
+    "The Awakening of Moander/Chapter 1/🎲 DM — Session Guide.md",
     "The Awakening of Moander/Chapter 1/🗺️ Cíl vyšetřování — co musí hráči zjistit.md",
     "The Awakening of Moander/Chapter 1/🗡️ Ambushers.md",
     "The Awakening of Moander/Chapter 1/🔥 Whisper 1 The Hollow Earth.md",
     "The Awakening of Moander/Chapter 1/📜The First Whisper full ritual fragment.md",
     "The Awakening of Moander/Chapter 1/📜 Yarrow's personal journal.md",
     "The Awakening of Moander/Chapter 1/📜 Yarrow's correspondence.md",
-    "The Awakening of Moander/Chapter 1/📜 Sanctum.md",
-    "The Awakening of Moander/Chapter 1/🏛️ The Layered Site — Hollowford's Shrine of Tyr.md",
     "The Awakening of Moander/Chapter 1/⚔️ The Ambush — Designed in Detail.md",
-    "The Awakening of Moander/Chapter 1/🤝 Matreous — Stat Block.md",
+    "The Awakening of Moander/Chapter 1/📜 Sanctum.md",
+    "The Awakening of Moander/Chapter 1/🕯️ The Aftermath — Matreous reads the documents.md",
+    "The Awakening of Moander/Chapter 1/The Mark of the First Whisper.md",
+    "The Awakening of Moander/Chapter 1/Puzzle to open Moander's shrine.md",
     "The Awakening of Moander/🐉 The Awakening of Moander.md",
     "The Awakening of Moander/📜 The Seven Whispers.md",
-    "The Awakening of Moander/Chapter 1",
-    "Untitled.canvas",
-    "The Awakening of Moander"
+    "Oblezeni v Lathanderove prevorstvi/Overview.md",
+    "Oblezeni v Lathanderove prevorstvi/Svitani.md",
+    "Oblezeni v Lathanderove prevorstvi/Nocni utoky.md",
+    "Oblezeni v Lathanderove prevorstvi/Najezd.md",
+    "The Awakening of Moander/Chapter 1/🤝 Matreous — Stat Block.md",
+    "Oblezeni v Lathanderove prevorstvi/mapa prevorstvi.png",
+    "Monsters/Bugbear Warrior.png",
+    "Monsters/Ogre.png",
+    "Monsters/Goblin Boss.png",
+    "Monsters/Hobgoblin Warrior.png",
+    "Monsters/Wolf.png",
+    "Pasted image 20260517195327.png",
+    "Monsters/Goblin Warrior.png",
+    "Untitled.canvas"
   ]
 }
