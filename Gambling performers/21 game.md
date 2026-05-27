@@ -1,0 +1,1 @@
+21 with d12s instead of cards, since it's such a simple game but does still involve significant chance/risk. Basically, each player rolls 2d12, and then you go around in a circle raising antes and rolling additional dice to see who can get closest to 21 without going over.

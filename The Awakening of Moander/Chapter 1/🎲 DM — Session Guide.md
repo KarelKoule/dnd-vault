@@ -3,8 +3,6 @@
 
 Přečti: [[⚔️ The Ambush — Designed in Detail]] · [[📜 Sanctum]] · [[🕯️ The Aftermath — Matreous reads the documents]]
 
-**Tón:** Den 1 = klidné, záhadné. Den 2 ráno = urgence. Sanktuárium = těsné, temné. Aftermath = ticho.
-
 ---
 
 ## AKT 1 — Přepadení na cestě
@@ -60,7 +58,7 @@ Každý mezník popisuj nahlas: _„Brenwick sedí u Ilmřiných dveří a neodc
 → [[📜 Sanctum]]
 
 - Deska u oltáře: STR DC 14 nebo dva lidé
-- Puzzle na dveřích: [[Puzzle to open Moander's shrine]] — co žilo a zhnilo
+- Puzzle na dveřích: [[Puzzle to open Moander's shrine]] — co žilo a shnilo
 - Yarrow klečí u lucerny, zpívá draconicky — 1 tah překvapení
 - Boj: pod 30 % HP zkusí utéct
 - Tobin na oltáři — živý, ale umírající. Pokus o záchranu = přeruší kruh = znamínko
@@ -79,10 +77,10 @@ _„Zastavili jsme jedno místo. Šest dalších — nevím."_
 
 ## Záchranné sítě
 
-| Zasekli se na... | Řešení |
-|-----------------|--------|
-| Kde hledat | Matreous: Augury → „pod kaplí" |
-| Kdo je pachatel | Karys viděla Tobina s Yarrowem |
-| Co je pod kaplí | Hesla: poutníci s bohem bez tváře |
-| Puzzle | Deník: _„přinesl jsem co Pohlcující žádá — to co žilo a zhnilo"_ |
-| Yarrow utekl | Dokumenty v pokoji stále tam — příběh nekončí |
+| Zasekli se na... | Řešení                                                           |
+| ---------------- | ---------------------------------------------------------------- |
+| Kde hledat       | Matreous: Augury → „pod kaplí"                                   |
+| Kdo je pachatel  | Karys viděla Tobina s Yarrowem                                   |
+| Co je pod kaplí  | Hesla: poutníci s bohem bez tváře                                |
+| Puzzle           | Deník: _„přinesl jsem co Pohlcující žádá — to co žilo a shnilo"_ |
+| Yarrow utekl     | Dokumenty v pokoji stále tam — příběh nekončí                    |

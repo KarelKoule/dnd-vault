@@ -9,9 +9,8 @@ Puzzle na vnitřních dveřích: [[Puzzle to open Moander's shrine]]
 
 ## Read-aloud
 
-> _Schody vedou do přirozené jeskyně. Vzduch je studený a tlustý — jako v místě, kde dlouho nic nežilo. Na podlaze černá zemina, i když jste pod skálou._
-> _Uprostřed rituální kruh — sůl a drcené kosti, přesně nakreslené. Uvnitř kamenný oltář. Na oltáři Tobin._
-> _V rohu svítí lucerna. U ní kleči Yarrow a tiše zpívá draconicky — stejný jazyk jako šepoty sestry Ilmry._
+> _Schody vedou do přirozené jeskyně. Vzduch je studený a těžký — jako v místě, kde dlouho nic nežilo. Na podlaze černá zemina, i když jste pod skálou._
+
 
 Na schodech je vidět jen tma a ticho. Yarrow dveře za sebou zavřel — nikdo ho nesmí najít.
 
@@ -28,13 +27,13 @@ Světlo lucerny viditelné ze schodů — skupina má 1 tah překvapení.
 **Yarrow při přistižení:**
 > _„Přišli jste. Vessen selhal, ale… tak rychle. Překvapení."_
 > _Vstane. Neustoupí._
-> _„Nechte mě dokončit. Tři noci. Pak odejdu a nikdy se nesetkáme. Nebo mi stojíte v cestě — a pak vyřešíme, kdo vyjde těmi schodami nahoru."_
+> _„Nechte mě dokončit. Tři noci. Pak odejdu a nikdy se nesetkáme. Nebo mi stojíte v cestě — a pak vyřešíme, kdo vyjde těmi schody nahoru."_
 
 - **Útok/odmítnutí:** Bojuje. Pod 30 % HP zkusí projít ke schodům.
 - **Vyjednávání:** Mluví jen aby získal čas. Vhled DC 14: lže. Po 3 kolech rozhovoru udeří — celou dobu gestikuluje kouzlo.
 - **Zajatý:** Řekne jen Soren + Baldurova Brána — to najdou v dopisech tak jako tak.
 
-**Stat block:** Kultní fanatik (MM) — místo Spiritual Weapon má Inflict Wounds.
+**Stat block:** [Cult Fanatic](https://aidedd.org/monster/cultist-fanatic) — místo Spiritual Weapon má [Inflict Wounds](https://www.aidedd.org/spell/inflict-wounds).
 
 ---
 
