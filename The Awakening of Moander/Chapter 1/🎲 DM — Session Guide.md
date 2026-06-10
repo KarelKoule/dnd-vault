@@ -19,7 +19,7 @@ Přečti: [[⚔️ The Ambush — Designed in Detail]] · [[📜 Sanctum]] · [[
 ### Automaticky potkají:
 - **Eska** — situace: sucha, hroby, Ilmra v horečce, zmizel Tobin
 - **Brenwick** — představí Yarrowa: _„Milý člověk, chodí každý večer ke kapli za sestrou Ilmrou."_
-- **Yarrow** — přátelský, nabídne pomoc. Lže: říká „jsem tu asi týden", Brenwick řekne „čtyři desetidenní, možná víc". Insight DC 13.
+- **[[🧙 Yarrow]]** — přátelský, nabídne pomoc. Lže: říká „jsem tu asi týden", Brenwick řekne „čtyři desetidenní, možná víc". Insight DC 13.
 
 ### Musí aktivně hledat:
 - **Karys** — Tobina naposledy viděla odcházet s Yarrowem ke kapli. Nevrátil se.

@@ -33,7 +33,7 @@ Světlo lucerny viditelné ze schodů — skupina má 1 tah překvapení.
 - **Vyjednávání:** Mluví jen aby získal čas. Vhled DC 14: lže. Po 3 kolech rozhovoru udeří — celou dobu gestikuluje kouzlo.
 - **Zajatý:** Řekne jen Soren + Baldurova Brána — to najdou v dopisech tak jako tak.
 
-**Stat block:** [Cult Fanatic](https://aidedd.org/monster/cultist-fanatic) — místo Spiritual Weapon má [Inflict Wounds](https://www.aidedd.org/spell/inflict-wounds).
+**Stat block:** [[🧙 Yarrow]]
 
 ---
 

@@ -1,16 +1,16 @@
 
 ## NPC přehled
 
-| NPC             | Kdo                                                               | Co ví                                                                                                 |
-| --------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **Eska Brenn**  | starostka                                                         | Sucha, hroby, Ilmra v horečce, zmizel Tobin. Má obecní knihu.                                         |
-| **Brenwick**    | hostinský, otec Tobina                                            | Yarrow je tu dvě desetidenní (ne „týden" jak říká Yarrow). Yarrow prý chodí večer ke kapli za Ilmrou. |
-| **Yarrow**      | [cultist fanatic](https://www.aidedd.org/monster/cultist-fanatic) | Lže o době pobytu. Nabídne pomoc s Ilmrou. Insight DC 13: něco tají.                                  |
-| **Karys**       | sestra Tobina, 14 let                                             | Tobina naposledy viděla odcházet s Yarrowem ke kapli. Nevrátil se.                                    |
-| **Drenwald**    | sedlák                                                            | Jeho pole sousedí s kaplí, uschlo první ze všech.                                                     |
-| **Hesla**       | bylinkářka na okraji                                              | Viděla Yarrowa vycházet z kaple za svítání. Zná pověst o starých poutnících.                          |
-| **Ilmra**       | kněžka Tyra, v horečce                                            | Šeptá draconicky: _„stará ústa pod novou rukou… pohlcující čeká…"_ Nikdy večer Yarrowa neviděla.      |
-| **Brat Halric** | mnich Tyra, přijede později                                       | Může potvrdit, co je a není normální pro Tyrovu kapli. Spíše do 2. sezení.                            |
+| NPC               | Kdo                                                               | Co ví                                                                                                 |
+| ----------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Eska Brenn**    | starostka                                                         | Sucha, hroby, Ilmra v horečce, zmizel Tobin. Má obecní knihu.                                         |
+| **Brenwick**      | hostinský, otec Tobina                                            | Yarrow je tu dvě desetidenní (ne „týden" jak říká Yarrow). Yarrow prý chodí večer ke kapli za Ilmrou. |
+| **[[🧙 Yarrow]]** | [cultist fanatic](https://www.aidedd.org/monster/cultist-fanatic) | Lže o době pobytu. Nabídne pomoc s Ilmrou. Insight DC 13: něco tají.                                  |
+| **Karys**         | sestra Tobina, 14 let                                             | Tobina naposledy viděla odcházet s Yarrowem ke kapli. Nevrátil se.                                    |
+| **Drenwald**      | sedlák                                                            | Jeho pole sousedí s kaplí, uschlo první ze všech.                                                     |
+| **Hesla**         | bylinkářka na okraji                                              | Viděla Yarrowa vycházet z kaple za svítání. Zná pověst o starých poutnících.                          |
+| **Ilmra**         | kněžka Tyra, v horečce                                            | Šeptá draconicky: _„stará ústa pod novou rukou… pohlcující čeká…"_ Nikdy večer Yarrowa neviděla.      |
+| **Brat Halric**   | mnich Tyra, přijede později                                       | Může potvrdit, co je a není normální pro Tyrovu kapli. Spíše do 2. sezení.                            |
 
 ---
 
