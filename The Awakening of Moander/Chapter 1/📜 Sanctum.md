@@ -20,17 +20,62 @@ Za dveřmi je Yarrow. Hráči to neví — slyší jen občasný tichý zpěv, t
 
 ---
 
+## Yarrow — encounter script
+
+### Nahoře v kapli (před deskou)
+
+Yarrow je přátelský, orientuje se tu bez váhání. Dvě jemné trhliny:
+- Zná kapli příliš dobře — kde jsou svícny, kde Ilmřin zápisník, aniž by se rozhlédl
+- Říká „jsem tu asi týden" → Brenwick řekl čtyři desetidenní
+
+**Pokud se někdo přiblíží k oltáři:**
+> *„Základový kámen — Caedrin tuhle sekci zpevňoval. Nešáhal bych na něj, pod tím je nerovná podlaha."*
+
+Stojí blízko oltáře. Nezdá se nervózní. Jen… tam je.
+
+**Perception DC 10** — kraj desky je ohlazený od opakovaného používání.
+**Insight DC 13** — je zakotvený u oltáře, ne u hráčů.
+
+---
+
+### Puzzle dveře (pokud jdou dolů) — [[Puzzle to open Moander's shrine]]
+
+Jde s nimi. Drží světlo. Čte nápis na dveřích nahlas, pomalu.
+
+> *„Tohle není Tyrovo dílo. Nějaký starý zámek, nevím."*
+
+Lže — ale teď jsou zaseknutí u dveří, které neumí otevřít, a on stojí vedle nich stejně zmateně. Vhled DC 14: vůbec se nesnaží přijít na řešení.
+
+Pokud odejdou → v noci se vrátí sám a dokončí rituál.
+
+**Pokud puzzle vyřeší před ním** — jeho tvář se na vteřinu zastaví. Pak:
+> *„Počkejte. Nechte mě to vysvětlit."*
+
+Už neodejde sám. Vchází s nimi.
+
+---
+
 ## Yarrow — encounter
 
 Světlo lucerny viditelné ze schodů — skupina má 1 tah překvapení.
 
-**Yarrow při přistižení:**
-> _„Přišli jste. Vessen selhal, ale… tak rychle. Překvapení."_
-> _Vstane. Neustoupí._
-> _„Nechte mě dokončit. Tři noci. Pak odejdu a nikdy se nesetkáme. Nebo mi stojíte v cestě — a pak vyřešíme, kdo vyjde těmi schody nahoru."_
+**Yarrow při přistižení** *(pokud přišli bez něj)*:
+> *„Přišli jste. Vessen selhal, ale… tak rychle. Překvapení."*
+> *Vstane. Neustoupí.*
+> *„Nechte mě dokončit. Tři noci. Pak odejdu a nikdy se nesetkáme. Nebo mi stojíte v cestě — a pak vyřešíme, kdo vyjde těmi schody nahoru."*
+
+**Yarrow při přistižení** *(pokud přišli spolu s ním)*:
+> *„Vidíte toho chlapce? Dýchá. Je naživu. Pokud se dotknete toho kruhu — já nevím, co se stane. Vy taky ne."*
+> *Nestoupí stranou. Stojí mezi nimi a oltářem.*
+> *„Dejte mi tři noci. Pak odejdu. Chlapec vás přežije — přísahám."*
+
+Lže. Ale Tobin opravdu dýchá, a to je dost na zaváhání.
+
+**Mezitím:** Každé kolo rozhovoru gestikuluje kouzlo. Vhled DC 14 to zachytí.
+
+**Po 3 kolech** — nebo když se někdo pohne k Tobinovi — přestane mluvit a sešle Bane. Žádné varování. Jen ticho a pak kouzlo.
 
 - **Útok/odmítnutí:** Bojuje. Pod 30 % HP zkusí projít ke schodům.
-- **Vyjednávání:** Mluví jen aby získal čas. Vhled DC 14: lže. Po 3 kolech rozhovoru udeří — celou dobu gestikuluje kouzlo.
 - **Zajatý:** Řekne jen Soren + Baldurova Brána — to najdou v dopisech tak jako tak.
 
 **Stat block:** [[🧙 Yarrow]]
