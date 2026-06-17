@@ -54,3 +54,19 @@ Sešle **Bane** na nejvýše 3 postavy (ZH na Charisma SO 13). Zatím neútočí
 
 **Pod 30 % HP:** Pokusí se projít ke schodům. Pokud má dostupný **Fear**, sešle ho jako kryt a unikne v panice.
 
+---
+
+## Loot
+
+### Na těle
+- **[[Hat of Disguise]]** *(Uncommon, attunement)* — Yarrow žil měsíce v Hollowfordu bez podezření. Tenhle klobouk vysvětluje jak. *Disguise Self* libovolně.
+- **Klíč od pokoje v hostinci** — jednoduchý železný klíč. Otevírá pokoj u Brenwicka.
+- **Váček s korespondencí** — viz [[📜 Yarrow's correspondence]]
+
+### V pokoji v hostinci
+- **[[Immovable Rod]]** *(Uncommon)* — zmáčkni tlačítko, tyč se zastaví ve vzduchu a unese až 8 000 liber. Yarrow ho používal k zajištění těžké desky u oltáře, když pracoval sám.
+- **[[Medallion of Thoughts]]** *(Uncommon, attunement)* — 3 nabití, *Detect Thoughts* (SO 13). Yarrow potřeboval vědět, kdo v Hollowfordu začíná tušit příliš mnoho.
+- **Lektvar léčení ×2**
+- **50 zl v smíšených mincích**
+- **[[📜 Yarrow's personal journal]]** — pod prkennou podlahou, zašifrovaný v dračí řeči
+
