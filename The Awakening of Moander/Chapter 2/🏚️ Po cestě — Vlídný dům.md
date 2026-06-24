@@ -43,7 +43,22 @@ Roztrus je podle toho, kam skupina kouká. Nevedou v pořadí. **Cíl: nasbírat
 9. **Mella nikdy nemrká správně** a počítá vás očima jako mince. *(Insight DC 14: její laskavost nedosáhne až k očím.)*
 10. **Znamení zareaguje.** Vyrážka po Šepotu zabrní — _zdánlivě_ varování. **Je to falešný poplach:** značka reaguje na silnou magii (zdejší glamour), ne na Moandera. *(Detect Magic: celý dům září iluzí.)* → viz DM pozn. dole.
 
-> **Mella odvádí pozornost.** Na otázky odpovídá vřele a mimo: _„Ale jděte, to víno ve vás mluví, drahoušku." „Sklep? Tam jsou jen brambory a myši, tam nic není."_ Čím blíž ke sklepu, tím vlídnější — a tím míň pustí.
+> **Mella odvádí pozornost.** Na otázky odpovídá vřele a mimo: _„Ale jděte, to víno ve vás mluví, drahoušku." „Sklep? Tam jsou jen brambory a myši, tam nic není."_ Čím blíž ke sklepu, tím vlídnější — a tím míň pustí. **Mella vás od sklepa aktivně odhání — to samo je vodítko, že tam něco je.**
+
+> **Tah dolů.** Ve chvíli, kdy podezření vrcholí, spusť jeden z tahů z následující sekce (host zmizí pod podlahu / zdola se ozve pláč / zmizí východy ven). Tím se „něco tu nehraje" změní v „musíme dolů".
+
+---
+
+## Proč jdou dolů _(motivace — vyber jednu, klidně víc)_
+
+Stopy nahoře budí podezření — ale podezření samo vede k _„padáme odsud"_, ne do sklepa. Potřebuješ konkrétní tah dolů. Sklep proto udělej **jedinou cestou ven i jediným způsobem, jak to skončit**:
+
+- **Past sklapne.** Jakmile skupina dost prokoukne (nebo dojí), glamour ztuhne: dveře a okna ven zmizí — jsou jen namalovaná zeď (Investigation: za iluzí pevný kámen). **Ven se nedá. Dolů ano.** Sklep je jediný východ z domu i z kouzla.
+- **Někdo zmizí pod podlahu.** Jeden z „hostů", se kterým postava mluvila (nebo dítě z kresby na krbu), je s tichým žuchnutím stažen padacími dveřmi dolů — před jejich očima. Pokud mají kohokoliv, na kom jim záleží (NPC, společník, zachráněný z cesty), vezmi toho. *(Skvělé pro paladina — „nemůžu nechat dalšího umřít.")*
+- **Zdola se ozve život.** Tlumené bušení a dětský pláč zpod podlahy — ladí s kresbou panáčků mizících do úst pod zemí (stopa 5). Někdo tam dole žije a volá o pomoc.
+- **Mella uteče dolů.** Pokud ji prokouknou a ona je v úzkých, prchá do sklepa ke své „špajzce" — a oni za ní. Sestup a finále splynou.
+
+> **Sečteno:** nahoru je strach, dolů je _nutnost_. Ven nevede cesta — vede skrz.
 
 ---
 
