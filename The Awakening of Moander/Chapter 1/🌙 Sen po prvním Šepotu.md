@@ -61,7 +61,7 @@ Read-aloud, než přijde sdílený závěr:
 
 Ráno po snu *(tedy dřív, než původně psaný „o několik dní později" — sen ten okamžik uspíší)*:
 
-> _Probudíš se s pachem, který ve snu nebyl — sladká hniloba, na okamžik, pak zmizí. A na kůži, někde, kam běžně nevidíš — na zápěstí pod manžetou, na žebrech, za uchem — máš vyrážku, kterou jsi včera neměl._
+> _Probudíš se s pachem, který ve snu nebyl — sladká hniloba, na okamžik, pak zmizí. A na kůži, někde, kam běžně nevidíš — na zápěstí pod manžetou — máš vyrážku, kterou jsi včera neměl.
 
 **Vyrážka = znamení.** Drobný tmavý prstenec teček kolem prázdného středu — jako sevřená ústa, jako jícen viděný shora. Ne větší než mince. Nebolí, nesvítí, nejde smýt. Každá postava ji má na jiném, osobním místě.
 

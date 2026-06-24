@@ -20,7 +20,7 @@ Nezdržuj se příjezdem. Začni je už **promáčené, u ohně, s miskou v ruce
 
 ## Pravda o místě _(jen pro DM)_
 
-- **Teta Mella je zelená ježibaba.** Žije tu roky. „Vlídný dům" je **glamour** (kouzlo *Iluzorní vzhled*) přes ohořelou, dávno mrtvou zájezdní stanici. Skutečnost: propadlá střecha, plíseň, kosti v popelu.
+- **[Teta Mella je zelená ježibaba](https://www.aidedd.org/monster/green-hag).** Žije tu roky. „Vlídný dům" je **glamour** (kouzlo *Iluzorní vzhled*) přes ohořelou, dávno mrtvou zájezdní stanici. Skutečnost: propadlá střecha, plíseň, kosti v popelu.
 - **Guláš je skutečný — a očarovaný.** Kdo se nají, hodí si **Moudrost ZH SO 13**, jinak je apaticky spokojený a nechce odejít (mírná verze *charm/uspání*, narůstá každou další miskou). Tím Mella drží hosty, než „dozrají".
 - **„Hosté" u ohně jsou dřívější oběti** — omámené, poloprázdné. Nejsou nepřátelé. Po zlomení glamouru / smrti ježibaby se probouzejí zmatení a vyděšení.
 - **Ve sklepě je špajz.** Tam Mella ukládá zakuklené/spící poutníky a polici **upomínek** — drobnosti po mrtvých. Dveře do sklepa drží hagí zámek (hlavolam níže).
@@ -40,7 +40,7 @@ Roztrus je podle toho, kam skupina kouká. Nevedou v pořadí. **Cíl: nasbírat
 6. **Zvíře dovnitř nechce.** Pes venku za zdí vyje a nepřekročí bránu. Společník druida/hraničáře se vzpouzí. *(Pasivní — skvělé pro Dalbera.)*
 7. **Boty bez majitele** u ohně. Kabáty na věšácích pro lidi, co tu nejsou. Uvnitř kredence **desítky čárek** vyrytých do dřeva. *(Investigation DC 12.)*
 8. **Kniha hostů.** Jména a popisy — voják, matka s dítětem, kupec, poutník s holým symbolem. Poslední zápisy bez data, stejným písmem. *(Na pultu.)* → **klíč k hlavolamu.**
-9. **Mella nikdy nemrká správně** a počítá vás očima jako mince. *(Insight DC 14: její laskavost nedosáhne až k očím.)*
+9. **[Mella](https://www.aidedd.org/monster/green-hag) nikdy nemrká správně** a počítá vás očima jako mince. *(Insight DC 14: její laskavost nedosáhne až k očím.)*
 10. **Znamení zareaguje.** Vyrážka po Šepotu zabrní — _zdánlivě_ varování. **Je to falešný poplach:** značka reaguje na silnou magii (zdejší glamour), ne na Moandera. *(Detect Magic: celý dům září iluzí.)* → viz DM pozn. dole.
 
 > **Mella odvádí pozornost.** Na otázky odpovídá vřele a mimo: _„Ale jděte, to víno ve vás mluví, drahoušku." „Sklep? Tam jsou jen brambory a myši, tam nic není."_ Čím blíž ke sklepu, tím vlídnější — a tím míň pustí. **Mella vás od sklepa aktivně odhání — to samo je vodítko, že tam něco je.**
@@ -56,7 +56,7 @@ Stopy nahoře budí podezření — ale podezření samo vede k _„padáme odsu
 - **Past sklapne.** Jakmile skupina dost prokoukne (nebo dojí), glamour ztuhne: dveře a okna ven zmizí — jsou jen namalovaná zeď (Investigation: za iluzí pevný kámen). **Ven se nedá. Dolů ano.** Sklep je jediný východ z domu i z kouzla.
 - **Někdo zmizí pod podlahu.** Jeden z „hostů", se kterým postava mluvila (nebo dítě z kresby na krbu), je s tichým žuchnutím stažen padacími dveřmi dolů — před jejich očima. Pokud mají kohokoliv, na kom jim záleží (NPC, společník, zachráněný z cesty), vezmi toho. *(Skvělé pro paladina — „nemůžu nechat dalšího umřít.")*
 - **Zdola se ozve život.** Tlumené bušení a dětský pláč zpod podlahy — ladí s kresbou panáčků mizících do úst pod zemí (stopa 5). Někdo tam dole žije a volá o pomoc.
-- **Mella uteče dolů.** Pokud ji prokouknou a ona je v úzkých, prchá do sklepa ke své „špajzce" — a oni za ní. Sestup a finále splynou.
+- **[Mella](https://www.aidedd.org/monster/green-hag) uteče dolů.** Pokud ji prokouknou a ona je v úzkých, prchá do sklepa ke své „špajzce" — a oni za ní. Sestup a finále splynou.
 
 > **Sečteno:** nahoru je strach, dolů je _nutnost_. Ven nevede cesta — vede skrz.
 
