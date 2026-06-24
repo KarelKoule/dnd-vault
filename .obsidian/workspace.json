@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Awakening of Moander/Chapter 1/📜 Yarrow's personal journal.md",
+                "file": "The Awakening of Moander/🐉 The Awakening of Moander.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📜 Yarrow's personal journal"
+              "title": "🐉 The Awakening of Moander"
+            }
+          },
+          {
+            "id": "5fcce8dd9949c11f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Awakening of Moander/Chapter 2/🕯️ Matreous — dopis z Candlekeepu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🕯️ Matreous — dopis z Candlekeepu"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,9 +198,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "7a109a720d8c9b51",
+  "active": "5fcce8dd9949c11f",
   "lastOpenFiles": [
-    "The Awakening of Moander/Chapter 1/🧙 Yarrow.md.tmp.1471055.c61127e54c38",
+    "The Awakening of Moander/Chapter 2/📜 Sorenova korespondence a zápisky.md",
+    "The Awakening of Moander/Chapter 2/🏙️ Baldurova Brána — Klíčová místa.md",
+    "The Awakening of Moander/Chapter 2/🎲 DM — Session Guide.md",
+    "The Awakening of Moander/Chapter 2/🎭 Vesper — Harper kontakt.md",
+    "The Awakening of Moander/Chapter 2/🗡️ Žoldnéři — Stat Block.md",
+    "The Awakening of Moander/Chapter 2/🕵️ Soren — Postava a Stat Block.md",
+    "The Awakening of Moander/Chapter 2/🕯️ Matreous — dopis z Candlekeepu.md",
+    "The Awakening of Moander/Chapter 1/The Mark of the First Whisper.md",
+    "The Awakening of Moander/Chapter 1/🌙 Sen po prvním Šepotu.md",
+    "The Awakening of Moander/Chapter 1/🌙 Sen po prvním Šepotu.md.tmp.308469.a4134e965a4c",
+    "The Awakening of Moander/Chapter 1/🌙 Sen po prvním Šepotu.md.tmp.308469.6338e8af0b40",
+    "The Awakening of Moander/Chapter 1/The Mark of the First Whisper.md.tmp.308469.a1c03b326dee",
+    "The Awakening of Moander/Chapter 1/🌙 Sen po prvním Šepotu.md.tmp.308469.ab0eb1004b97",
+    "The Awakening of Moander/Chapter 3/🎲 DM — Session Guide.md",
+    "The Awakening of Moander/Chapter 3/📜 Úplný text rituálu — Šepot Duté Země.md",
+    "The Awakening of Moander/Chapter 3/🕍 Chrám Pohlcujícího — místo a dungeon.md",
+    "The Awakening of Moander/Chapter 2/🎭 Vesper — Harper kontakt.md.tmp.308469.7e7aa666d99a",
+    "The Awakening of Moander/Chapter 3/🕍 Chrám Pohlcujícího — místo a dungeon.md.tmp.308469.172afe374108",
+    "The Awakening of Moander/Chapter 3/📜 Úplný text rituálu — Šepot Duté Země.md.tmp.308469.0c6283cc5979",
+    "The Awakening of Moander/Chapter 3/🎲 DM — Session Guide.md.tmp.308469.1b9672912dd7",
+    "The Awakening of Moander/Chapter 3/🎲 DM — Session Guide.md.tmp.308469.6773000fa74b",
+    "The Awakening of Moander/Chapter 3",
+    "The Awakening of Moander/🐉 The Awakening of Moander.md",
+    "The Awakening of Moander/Chapter 1/📜The First Whisper full ritual fragment.md",
+    "The Awakening of Moander/Chapter 2/🕯️ Matreous — dopis ze cesty.md",
+    "The Awakening of Moander/📜 The Seven Whispers.md",
+    "The Awakening of Moander/Chapter 1/📜 Yarrow's personal journal.md",
     "The Awakening of Moander/Chapter 1/📜 Yarrow's correspondence.md",
     "The Awakening of Moander/Chapter 1/Puzzle to open Moander's shrine.md",
     "The Awakening of Moander/Chapter 1/🏛️ The Layered Site — Hollowford's Shrine of Tyr.md",
@@ -194,34 +235,7 @@
     "The Awakening of Moander/Chapter 1/🧙 Yarrow.md",
     "The Awakening of Moander/Chapter 1/🎲 DM — Session Guide.md",
     "The Vanishing at the Gilded Vine/⚔️ Combat — Tomas's Last Stand.md",
-    "The Vanishing at the Gilded Vine/🍷 The Vanishing at the Gilded Vine.md",
-    "The Vanishing at the Gilded Vine/🎭 Suspects.md",
-    "The Vanishing at the Gilded Vine/⚔️ Combat — Tomas's Last Stand.md.tmp.1196717.1efe0fd54b81",
-    "The Vanishing at the Gilded Vine/🎭 Suspects.md.tmp.1196717.4da8bd19dc03",
-    "The Vanishing at the Gilded Vine/🍷 The Vanishing at the Gilded Vine.md.tmp.1196717.139c80c31055",
-    "The Vanishing at the Gilded Vine",
-    "The Awakening of Moander/Chapter 1/The Mark of the First Whisper.md",
-    "The Awakening of Moander/Chapter 1/🤝 Matreous — Stat Block.md",
-    "The Awakening of Moander/Chapter 1/🗺️ Cíl vyšetřování — co musí hráči zjistit.md",
-    "The Awakening of Moander/Chapter 1/🗡️ Ambushers.md",
-    "The Awakening of Moander/Chapter 1/🔥 Whisper 1 The Hollow Earth.md",
-    "The Awakening of Moander/Chapter 1/📜 Sanctum.md.tmp.1196717.2bc5a79db235",
-    "The Awakening of Moander/Chapter 1/📜 Sanctum.md.tmp.1196717.b03c9fbbe0ae",
-    "The Awakening of Moander/Chapter 1/📜 Yarrow's personal journal.md",
-    "The Awakening of Moander/Chapter 1/🧙 Yarrow — Stat Block.md.tmp.1160066.1e10896e2582",
-    "The Awakening of Moander/Chapter 1/🧙 Yarrow — Stat Block.md.tmp.1160066.3a355e26c7bb",
-    "The Awakening of Moander/Chapter 1/🧙 Yarrow — Stat Block.md.tmp.1160066.569a3149dfa6",
-    "The Awakening of Moander/Chapter 1/📜 Sanctum.md.tmp.1160066.57834c2a9c90",
-    "Oblezeni v Lathanderove prevorstvi/Overview.md",
-    "Oblezeni v Lathanderove prevorstvi/Zaver.md",
-    "Oblezeni v Lathanderove prevorstvi/Svitani.md",
-    "Oblezeni v Lathanderove prevorstvi/Nocni utoky.md",
     "Oblezeni v Lathanderove prevorstvi/mapa prevorstvi.png",
-    "The Awakening of Moander/Chapter 1/⚔️ The Ambush — Designed in Detail.md",
-    "Oblezeni v Lathanderove prevorstvi/Zacatek oblezeni.md",
-    "Mazfroths Mighty Digressions/Yalerion Highscroll.md",
-    "Mazfroths Mighty Digressions/Valor.md",
-    "Mazfroths Mighty Digressions/Overview.md",
     "three-dragon-ante.png",
     "Monsters/Bugbear Warrior.png",
     "Monsters/Ogre.png",
