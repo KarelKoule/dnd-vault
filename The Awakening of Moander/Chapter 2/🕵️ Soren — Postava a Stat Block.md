@@ -77,6 +77,8 @@ Starší Nositelé Fialové  (Šepot 4 — čekají na Sorenovo potvrzení)
 Yarrow  Maren  Vaelis  (terénní agenti — ne členové kultu, jen najatí nebo přesvědčení)
 ```
 
+V Baldurově Bráně Soren navíc řídí **kompartmentalizovanou buňku** — krycí obchod se starožitnostmi, kde buňka shání a rozesílá komponenty a relikvie pro nadcházející rituály. Vede ji přes prostředníka (Haldar) a mrtvou schránku; buňka nezná jeho adresu. → [[🐍 Sorenova buňka — Starožitnosti U Zámořské truhly]]
+
 ---
 
 ### Co Soren zajišťuje

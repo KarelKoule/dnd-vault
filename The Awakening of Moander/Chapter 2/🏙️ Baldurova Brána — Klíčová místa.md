@@ -42,6 +42,12 @@ Vysoká budova s bílou fasádou. Bratr Aldric — starší scribe, vlasy vypad�
 
 ---
 
+### Obchod „U Zámořské truhly" — Dolní město
+
+Krycí podnik Sorenovy buňky — obchod se starožitnostmi a importem. Buňka odsud shání komponenty a relikvie pro nadcházející rituály a rozesílá bedny na místa. Slabý článek (skladník Teppa), převleky za zákazníka/nosiče, noční vloupání, mrtvá schránka u fontány. Plný popis, členové a nitky: → [[🐍 Sorenova buňka — Starožitnosti U Zámořské truhly]]
+
+---
+
 ### Doláčka — kurýrní síť, Joinin přístav
 
 Neoficiální kurýrní přeprava pro lidi, kteří nechtějí adresu na zásilce. Reva — třicátnice, krátké vlasy, vždy stojí tak, aby měla záda ke zdi.
