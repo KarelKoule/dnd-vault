@@ -1,7 +1,7 @@
 
 _(Nalezeno v domě s modrou lucernou, Joinin přístav č. 14. Kožený zápisník s mosaznou sponkou — šifrovaný, ale jen jednoduchým posunem v dračí řeči. Matreous ho rozluští za hodinu, zkušený lingvista za dvě.)_
 
-> **Časová poznámka pro DM:** Skupina zabila Yarrowa kolem **24. Mirtulu** a do Baldurovy Brány dorazí kolem **28.–29. Mirtulu** (3 dny cesty). Sorenovy zápisy dostávají zprávy s kurýrním zpožděním několika dní — proto se o Yarrowově selhání dozvídá až ke konci měsíce, ne dřív. Datace níže s tím počítá.
+> **Časová poznámka pro DM:** Skupina narušila rituál v Hollowfordu, když do jeho dokončení zbývaly ~3 dny, a do Baldurovy Brány dorazí po ~3 dnech cesty. Soren komunikuje jen kurýrem s několikadenním zpožděním — **o Yarrowově selhání ani smrti zatím netuší.** Poslední zprávu od Yarrowa dostal ještě z doby, kdy vše běželo dle plánu. Jeho zápisky jsou klidné a optimistické. To je záměr: skupina čte poznámky člověka, pro kterého jejich „vítězství" v Hollowfordu zatím neexistuje.
 
 ---
 
@@ -14,30 +14,30 @@ Záznamy jsou úsporné, téměř číselné. Jde vidět, že Soren nepsal pro �
 > M. — Reaching Wood, druhý obvod. Dokončení do nového měsíce.
 > V. — doručeno přes Velehar. Potvrdil příjem.
 
-> **24. Mirtul — zásilka č. 11**
-> Y. — žádná zpráva od č. 9. Termín se blíží, mlčení mě znepokojuje. Možná pošta, možná problém. Posílám výzvu.
+> **20. Mirtul — zásilka č. 11**
+> Y. — potvrdil termín. Šest hlasů poběží současně, jak bylo plánováno.
 > M. — Reaching Wood téměř hotova.
+> Připomínka sobě: po dokončení prvního Šepotu potvrdit Varanthovi. Bez potvrzení Starší nespustí další fázi.
 
-> **28. Mirtul — zásilka č. 13**
-> Y. — výzva bez odpovědi. Třetí strana hlásí cizí příchozí v Hollowfordu — ozbrojené, ne místní. Nutno předpokládat selhání.
-> M. — **Reaching Wood dokončena. Signál dán.** Tedy první Šepot stále zní, jen o jeden hlas slabší.
-> **Práce v Bráně se chýlí ke konci — přesun k dalšímu uzlu plánuji řádně, ne ve spěchu. Záloha sítě uložena: Mirrel.**
+> **26. Mirtul — zásilka č. 13**
+> První Šepot se uzavírá tento týden — všech šest hlasů. Připraveno.
+> M. — signál z Reaching Wood očekávám každým dnem.
+> **Přesun k Šeptu 2. Velehar drží tranzitní bod. U tohoto obřadu chci být osobně** — dračí kosti nesnesou chybu koordinace na dálku. Cesta na Velehar naplánována po potvrzení prvního Šepotu.
+> Záloha sítě uložena: Mirrel.
 
 ---
 
-## Dopis bez adresy — koncept, neodeslaný
+## Dopis Varanthovi — koncept, neodeslaný
 
-_(Přeložen na stole, inkoust ještě vlhký. Soren ho psal v den, kdy skupina dorazila do Baldurovy Brány — pokud ho zastihnou v domě, dopisuje právě tuto stránku.)_
+_(Přeložen na stole, inkoust ještě vlhký. Soren ho psal v den, kdy skupina dorazila do Baldurovy Brány — pokud ho zastihnou v domě, dopisuje právě tuto stránku. Předpokládá, že první Šepot se dokončuje podle plánu — o Hollowfordu neví.)_
 
-> _Pane,_
+> _Varanthe,_
 >
-> _Hollowford neodpověděl. Třetí strana hlásí, že Y. byl objeven a umlčen dřív, než stačil kruh zapečetit. Nevím s jistotou, zda byl první Šepot na tomto místě dokončen — předpokládám, že nikoliv._
+> _první Šepot se uzavírá. Šest hlasů, jak bylo zamýšleno — Reaching Wood i Hollowford drží termín, ostatní potvrdili. Jakmile obdržím poslední signál, pošlu potvrzení Starším; bez něj další fáze nezačne, a to nechci zdržet._
 >
-> _Není to však ztráta celku. Reaching Wood potvrdila. Velehar drží tranzitní bod. Ztratili jsme jeden hlas ze šesti — Šepot zní dál, jen tišeji. Pro spuštění další fáze to postačí._
+> _Přesouvám se k Šeptu 2. U obřadu na dračích kostech chci být osobně — koordinace na dálku tam nestačí. Velehar je připraven jako tranzitní bod. Žádám, abys mi potvrdil, kdo z Nositelů bude na místě, ať se cesty nekříží._
 >
-> _Znepokojuje mě jiné: ti, kdo přišli za Y., nebyli vyšetřovatelé z nudy. Šli cíleně. Nevím, kdo je poslal, ani zda vědí, co našli. Pokud čtou, co Y. zanechal, mohou narazit i na mě. Nepovažuji je za hrozbu pro celek — jeden Nositel chybět může — ale za hrozbu pro utajení ano. Zabezpečuji síť a přesouvám se podle plánu k dalšímu uzlu._
->
-> _Žádám instrukce — a žádám, aby se s těmi lidmi naložilo dřív, než z jednoho neúspěchu udělají vzorec._
+> _Práce postupuje. Šepot zní._
 >
 > _— S._
 
@@ -46,22 +46,25 @@ _(Přeložen na stole, inkoust ještě vlhký. Soren ho psal v den, kdy skupina 
 ## Co zápisky říkají skupině
 
 **Fakta, která skupina získá:**
-- Rituál v Hollowfordu **nebyl jediný** — byl to jeden z **šesti** „hlasů" prvního Šepotu
+- Rituál v Hollowfordu **nebyl jediný** — byl to jeden ze **šesti** „hlasů" prvního Šepotu, běžících současně
 - Existuje pojem **„Šepot"** a tyto Šepoty jdou **po sobě** (první, druhý) — operace je sekvenční a koordinovaná přes celý Faerûn
-- **Reaching Wood** (sestra Maren) byla dokončena
+- **Reaching Wood** byla téměř hotová
 - **Velehar** je tranzitní bod kurýrní sítě — vede k druhému Šepotu *(skupina si to schová na později; teď míří k chrámu)*
-- Soren ví, že za ním někdo může jít, a plánuje řádný přesun — ne úprk
+- Jméno **Varanthos** — někdo nad Sorenem, kdo čeká na jeho potvrzení
+- Soren **plánuje osobně dohlížet** na obřad na dračích kostech (Šepot 2) — cíl je pro něj natolik důležitý, že opustí své krytí
 
 **Co skupina z těchto zápisků NEzjistí (mystérium pokračuje):**
 - Kolik Šeptů celkem existuje (že je jich sedm, nikde nestojí)
 - Co Šepoty vlastně dělají a čemu slouží
-- Kdo je „Pane" / Mistr na vrcholu
+- Kdo je Varanthos a kdo stojí nad ním
+
+> **WOW moment pro skupinu:** Zápisky jsou klidné. Soren o Hollowfordu píše jako o úspěchu. Nezná selhání, nezná Yarrowovu smrt, neřeší skupinu — pro něj neexistuje. Právě to má skupinu zamrazit: zabili člověka, kterého tahle mašina ani nezaznamenala. Jejich velké vítězství byl jeden ze šesti hlasů, a i ten Soren pořád počítá jako splněný.
 
 ---
 
 ## Záloha mimo dům — Mirrel
 
-Soren nedrží jedinou kopii sítě. Pokud musí utéct s prázdnýma rukama, počítá s offsite zálohou.
+Soren nedrží jedinou kopii sítě. Kdyby o zápisník přišel, počítá s offsite zálohou.
 
 **Modrá spona** ze Sorenova límce (nebo nalezená v domě) skrývá svinutý papírek:
 > _Mirrel — Skalní čtvrť, Rudá kotva, pokoj 4._
@@ -77,5 +80,5 @@ Mirrel je **kontakt, ne agent** — drží zapečetěnou kopii kurýrní sítě,
 | Soren utekl **se zápisníkem** | Mirrel je jediná cesta k Veleharu — klíčová |
 | Soren mrtvý, dům nenalezen | Mirrelina kopie nahradí celý zápisník |
 
-Pokud Soren žije a tuší pronásledování, půjde za Mirrel sám vyzvednout kopii — to je příležitost ho zastihnout.
-Pokud Soren zemřel, Mirrel čeká na signál „modrá voda", který nikdy nepřijde, a začne být nervózní — po pár dnech kopii spálí (tikající hodiny pro skupinu).
+Pokud Soren žije a unikl skupině, půjde za Mirrel sám vyzvednout kopii — příležitost ho zastihnout.
+Pokud Soren zemřel, Mirrel čeká na signál „modrá voda", který nikdy nepřijde, a po pár dnech kopii spálí.

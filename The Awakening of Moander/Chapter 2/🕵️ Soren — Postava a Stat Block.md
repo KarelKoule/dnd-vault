@@ -50,7 +50,7 @@ Zvedne ruce. Mluví. Čas je jeho zbraň — chce zjistit, co vědí, a co si my
 **Misty Step** — za roh, do vedlejší místnosti, ven oknem. Pak **Invisibility**, pokud má pozici.
 
 **Pokud je chycen bez úniku:**
-Vyjednává — ale ne ze strachu. Počítá. Chce vědět, co skupina ví, a jak moc toho může prozradit, aniž by ohrozil Šepot 4. Mistrovo jméno — Sammaster — nezná. Nebo tvrdí, že nezná. *(Insight DC 17: lže.)*
+Vyjednává — ale ne ze strachu. Počítá. Chce vědět, kdo skupina je a co ví — protože do téhle chvíle o ní neměl tušení. Prozradí jen tolik, aby zjistil víc, než sám vydá. Jméno nad sebou — Varanthos — přizná pod tlakem. Kdo stojí nad Varanthem, skutečně neví.
 
 **Pod 20 % HP:**
 Sešle **Hypnotic Pattern** — kužel 9 m, ZH na Moudrost SO 14. Pokud uspěje alespoň u jednoho, sebere zápisky a uteče. Nenechá dokumenty za sebou, pokud mu zbývá akce.
@@ -81,11 +81,11 @@ Yarrow  Maren  Vaelis  (terénní agenti — ne členové kultu, jen najatí neb
 
 ### Co Soren zajišťuje
 
-**Šepot 1 — Dutá Země** *(proběhl, výsledek nejistý)*
-Verboval a koordinoval terénní agenty pro šest rituálních míst po celém Faerûnu. Hollowford selhal — to ví. Reaching Wood potvrdila. Zbývající čtyři místa: dvě potvrzená, dvě bez zprávy. Soren odhaduje, že Šepot 1 byl dokončen ze čtyř šestin — dost na to, aby země „slyšela", ale slabší než mělo být.
+**Šepot 1 — Dutá Země** *(dle Sorena se dokončuje dle plánu)*
+Verboval a koordinoval terénní agenty pro šest rituálních míst po celém Faerûnu. **O selhání v Hollowfordu neví** — poslední zpráva od Yarrowa byla optimistická a kurýr s novinkami ještě nedorazil. Soren předpokládá, že všech šest hlasů běží k dokončení a čeká už jen na poslední signál z Reaching Wood, aby potvrdil Varanthovi.
 
 **Šepot 2 — Šepot Kostí** *(aktivně připravuje)*
-Tři dračí hřbitovy. Soren vybral agenty, ale sám na žádné z míst nejel. Zápisky v domě s modrou lucernou obsahují kurýrní trasy k jednomu z nich — Velehar je tranzitní bod pro druhý.
+Tři dračí hřbitovy. **U tohoto obřadu chce být Soren osobně** — koordinaci na dálku tam nepovažuje za dost spolehlivou. Velehar je tranzitní bod; cestu tam plánuje po potvrzení prvního Šeptu. Zápisky v domě s modrou lucernou obsahují kurýrní trasy.
 
 **Šepot 3 — Šepot Tkaniva** *(plánuje, čas tlačí)*
 Netherské ruiny a uzly ley-line. Tady Soren potřebuje jiné Nositele Fialové — mágové na jeho vlastní úrovni. Kontakty má, síť buduje. Velehar je místo, kde se Šepot 2 a přípravy Šepotu 3 překrývají — klíčový uzel.
@@ -101,10 +101,11 @@ Netherské ruiny a uzly ley-line. Tady Soren potřebuje jiné Nositele Fialové 
 - Jméno jednoho Staršího Nositele Fialové: **Varanthos** — s ním komunikuje přes zásilky
 
 **Neví:**
+- Že Hollowford selhal a Yarrow je mrtvý — ještě mu nedorazila zpráva
+- Že skupina vůbec existuje
 - Přesná místa ani povahu Šeptů 4–7
 - Kdo je v Radě Mluvících
 - Kde je Moanderova hrobka
-- Zda Sammaster ví o skupině — a to ho zneklidňuje
 
 ---
 
@@ -124,10 +125,10 @@ Soren dávkuje. Každá informace je zboží. Ale jedno neprodá za žádnou cen
 
 Soren je věřící. Ne fanatik s pěnou u úst — ale člověk, který si Sammasterovu doktrínu přečetl, pochopil ji a přijal jako pravdu. Draci jsou nejvyšší forma bytí. Drakolichoství je dokonalost, ne zkáza. Sammaster vidí dál než kdokoliv naživu.
 
-Terénní agenty — Yarrowa, Maren, Vaelis — bral jako nástroje. Kompetentní nástroje. Yarrowovu smrt zaregistruje jako ztrátu, ne jako zármutek.
+Terénní agenty — Yarrowa, Maren, Vaelis — bere jako nástroje. Kompetentní nástroje, ne lidi. Kdyby se dozvěděl o Yarrowově smrti, zaregistroval by ji jako provozní ztrátu, ne jako zármutek.
 > _„Byl spolehlivý. Byl trpělivý. Škoda — takoví se hledají těžko."_
 
-Skupinu bere jako zpoždění, ne jako hrozbu pro celý plán. Jeden Nositel Fialové chybět může. Šepot 4 ho přežije.
+Skupinu při konfrontaci nebere jako hrozbu pro celý plán, jen jako neznámou. Jeden Nositel Fialové by chybět mohl; operace ho přežije. Právě ta lhostejnost má skupinu zamrazit — pro Sorena jsou nikdo.
 
 **Jeden moment, kdy je skutečný:**
 Pokud se někdo zeptá, co očekává po Sammasterově vzestupu — nezaváhá.
