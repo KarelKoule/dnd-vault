@@ -99,6 +99,7 @@ Netherské ruiny a uzly ley-line. Tady Soren potřebuje jiné Nositele Fialové 
 **Ví:**
 - Sammasterova existence a že je lich — to je kultovní doktrína, žádné tajemství
 - Šepoty 1–3 mechanicky: co, kde, kdy — ne rituální detaily, ale logistiku
+- **Kde je „Pramen"** — chrám Pohlcujícího s originálem rituálu v kameni; sám tam posadil opisovače Vaelise
 - Že Šepot 4 spustí Starší nad ním, jakmile obdrží jeho potvrzení
 - Jméno jednoho Staršího Nositele Fialové: **Varanthos** — s ním komunikuje přes zásilky
 
@@ -116,7 +117,7 @@ Netherské ruiny a uzly ley-line. Tady Soren potřebuje jiné Nositele Fialové 
 | Situace | Získají |
 |---|---|
 | Základní výslech | Velehar, stav Šepotu 1, existence Varanthosse |
-| Hluboký výslech (Insight DC 14+) | Kurýrní trasa k dračímu hřbitovu Šepotu 2, jak Šepot 4 závisí na jeho potvrzení |
+| Hluboký výslech (Insight DC 14+) | **Pramen** — chrám Pohlcujícího, kde je originál a opisovač; kurýrní trasa k dračímu hřbitovu Šepotu 2; jak Šepot 4 závisí na jeho potvrzení |
 | Kouzlo nebo extrémní tlak | Sorenovo osobní setkání s Varanthem — kde, kdy, za jakých podmínek |
 
 Soren dávkuje. Každá informace je zboží. Ale jedno neprodá za žádnou cenu: potvrzení Šepotů Varantovi — to by skupině dalo reálnou páku zastavit Šepot 4. To Soren ví a nepřizná to ani pod Suggestion, pokud hodí ZH.

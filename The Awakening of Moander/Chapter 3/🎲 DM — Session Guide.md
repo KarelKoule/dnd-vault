@@ -3,7 +3,7 @@
 
 Přečti: [[🕍 Chrám Pohlcujícího — místo a dungeon]] · [[📜 Úplný text rituálu — Šepot Duté Země]]
 
-Návaznost: skupina sem míří z Baldurovy Brány, nasměrovaná Vesper (a Matreousem). Mají ohořelý fragment a Sorenovy zápisky — chybí jim **úplné znění rituálu**. Sem si pro něj jdou.
+Návaznost: skupina sem míří z Baldurovy Brány podle **Sorenových zápisků** — „Pramen: chrám Pohlcujícího, rašeliniště tři dny východně". Mají ohořelý fragment (čerstvý opis) a vědí, že originál je tady, **vytesaný v kameni**. Chybí jim jediné: co probuzení dělá. Sem si pro to jdou.
 
 → Předchozí: [[🎲 DM — Session Guide]] *(Chapter 2)*
 
@@ -12,10 +12,10 @@ Návaznost: skupina sem míří z Baldurovy Brány, nasměrovaná Vesper (a Matr
 ## Proč sem skupina jde
 
 Dvě věci jim nesedí dohromady:
-- **Fragment** říká *co* rituál je — prastará moanderitská modlitba, „pozvání Spícího", sekvence Šeptů. Ale je ohořelý; jádro chybí.
-- **Sorenovy zápisky** říkají *kdo, kde, kdy* — logistiku sítě. Ale ani slovo o tom, co probuzení udělá.
+- **Fragment** říká *co* rituál je — prastará moanderitská modlitba, „pozvání Spícího", sekvence Šeptů. Ale je to ohořelý opis; jádro chybí.
+- **Sorenovy zápisky** říkají *kdo, kde, kdy* — a hlavně **kde je Pramen**: chrám Pohlcujícího, kde leží originál vytesaný v kameni a kde opisovač „V." pracuje dál.
 
-Aby pochopili, **co vlastně zastavují** (a zda to vůbec jde), potřebují úplný text. Ten se opisuje z originálu — a originál je v chrámu, odkud kult moanderitský obřad vzkřísil.
+Aby pochopili, **co vlastně zastavují** (a zda to vůbec jde), musí si originál přečíst sami. Bonus: zastaví tím i výrobu dalších opisů.
 
 > **Hnací otázka kapitoly:** _Co se stane, když Šepoty doznějí?_ Odpověď je třetí a největší „wow" kampaně do tohoto bodu — a skupina si pro ni musí dojít až na dno chrámu.
 
@@ -39,7 +39,8 @@ Fakta. Platí, ať skupina udělá cokoliv.
 - **Chrám je pravý zdroj.** Tohle je jeden z mála neporušených moanderitských chrámů ve Faerûnu. Kult Draka ho našel jako první — odsud opsal rituál, který rozeslal na šest míst (Hollowford byl jedno z nich).
 - **Kult tu nechal stopu, ne stráž.** Hlavní síly jsou dávno pryč (rozeseté po Šeptech). Zůstal **opisovač** a pár hlídačů — a hlavně to, co se v chrámu probudilo tím, že tu po tisíci letech zase někdo četl Slovo nahlas.
 - **Chrám sám je probuzený natolik, aby byl nebezpečný.** Ne Moander — jen jeho rozkladná esence, prosáklá do kamene a bahna. Plíseň, hniloba, vzkříšené tělo strážce. Místo, které „si pamatuje víc, než by mělo" (Matreousova slova).
-- **Úplný text je na dně.** Vytesaný do oltáře v původním sanctu, ne na pergamenu — proto neshořel. To je odměna kapitoly a třetí „wow".
+- **Úplný text je na dně.** **Všech sedm Šeptů**, vytesaných do oltáře v původním sanctu, ne na pergamenu — proto neshořel. To je odměna kapitoly a třetí „wow".
+- **A vedle oltáře je Vaelisův stůl**, který prozradí, kde kult *právě stojí*: opisy prvního Šepotu hotové a odeslané, opisy druhého rozdělané s vlhkým inkoustem, zbytek netknutý. Skupina je **o krok pozadu, ne o tisíc let**.
 - **Skupina tu poprvé uvidí, co je v sázce.** Ne jméno nepřítele. Velikost cíle.
 
 ---
@@ -48,9 +49,9 @@ Fakta. Platí, ať skupina udělá cokoliv.
 
 Pro orientaci, kde v odhalování jsme:
 
-1. **Wow 1 (Chapter 2, Vesper):** Není to dračí rituál. Je to *moanderitský*, tisíc let starý. Dva spojené kulty.
-2. **Wow 2 (Chapter 2, zápisky):** Je to *sekvence* — Šepoty jdou po sobě, koordinované přes celý Faerûn.
-3. **Wow 3 (TADY, úplný text):** Šepoty **probouzejí esenci mrtvého boha** — a poslední z nich nechá někoho tu esenci *pohltit* a povýšit se téměř na boha.
+1. **Wow 1 (Chapter 2, překlad):** Není to dračí rituál. Je to *moanderitský*, tisíc let starý — první ze sedmi Šeptů. Fragment je čerstvý opis; originál existuje.
+2. **Wow 2 (Chapter 2, zápisky):** Hollowford byl jeden ze šesti hlasů, Šepoty běží koordinovaně přes celý Faerûn — a originál leží v „Prameni", kam skupina teď jde.
+3. **Wow 3 (TADY, originál):** Skupina čte **všech sedm** — Šepoty **nesklízejí boha, aby ho vzkřísily**. Šest jich Moanderovu esenci sbírá a sedmý ji nechá „Mistra" *pohltit* a povstat jako bůh nový. Moander je surovina. A druhý Šepot **běží právě teď** (Velehar, do konce podzimu).
 
 → Plné znění a jak ho dávkovat: [[📜 Úplný text rituálu — Šepot Duté Země]]
 
@@ -73,7 +74,7 @@ Připravené situace, ne sekvence. Chrám je malý dungeon se třemi vrstvami �
 
 | NPC | Pravda |
 |---|---|
-| **Opisovač (Vaelis)** | Třetí Sorenův terénní agent — ten, co „doručoval přes Velehar". Sedí v chrámu a opisuje další kopie rituálu. Není bojovník. Pokud žije, dávkuje informace jako Soren — ale je vyděšenější. Zná **Velehar** a že další Šepot je „v kostech draků". → naváže na Chapter 4. |
+| **Opisovač (Vaelis)** | Třetí Sorenův terénní agent — „V." ze zápisků, ten, co „zůstává u Pramene a opisuje pro druhý Šepot". Není bojovník. Pokud žije, dávkuje informace jako Soren — ale je vyděšenější. Zná **Velehar** (tam jeho opisy míří) a že další Šepot je „v kostech draků". → naváže na Chapter 4. |
 | **Strážce sanctu** | Tělo dávného moanderitského kněze, prorostlé plísní, probuzené opětovným čtením Slova. Boss kapitoly. Není inteligentní — je to imunitní reakce místa. |
 
 > **Vaelis jako most.** Pokud skupina nechá Vaelise naživu, je to ideální zdroj pro směr na Velehar (Chapter 4). Pokud ho zabijí, totéž najdou v jeho přepisech a v Sorenových zápiscích. Žádné info není uzamčeno v jednom NPC.
@@ -107,7 +108,7 @@ Navazuje na sledování z Baldurovy Brány. Mezi BG a chrámem (nebo cestou zpě
 
 | Zaseknutí | Pravda, která je odemkne |
 |---|---|
-| Nevědí, kde chrám je | Vesper: rašeliniště na východ; Matreousovy poznámky o moanderitských chrámech |
+| Nevědí, kde chrám je | Zápisky říkají přímo: „rašeliniště tři dny východně od Brány"; záložně Mirrelina kopie nebo Matreousovy poznámky |
 | Nedostanou se dolů | Puzzle sestupu má moanderitskou logiku — rozklad otevírá, ne síla (viz dungeon) |
 | Přežijí, ale minou text | Oltář je nepřehlédnutelný; Vaelisovy přepisy obsahují totéž |
 | Co dál | Vaelis / přepisy / Matreous: _„Velehar. Kosti draků."_ → Chapter 4 |

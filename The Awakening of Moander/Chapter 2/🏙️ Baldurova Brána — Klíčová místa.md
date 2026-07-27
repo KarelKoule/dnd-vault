@@ -95,6 +95,6 @@ Mirrel je **kontakt, ne agent** — drží zapečetěnou kopii Sorenovy kurýrn�
 
 **Mirrel při konfrontaci:** neozbrojený/á, vyděšený/á. Pokud skupina zná heslo „modrá voda" (z Sorenovy spony), vydá kopii bez odporu. Pokud heslo nezná, Mirrel se pokusí balíček spálit — Sleight of Hand / iniciativa rozhodne, zda to skupina stihne přerušit.
 
-**Kopie obsahuje:** přepis kurýrní sítě se seznamem tranzitních bodů. Jeden z nich je **Velehar**. Tedy i kdyby Soren utekl se zápisníkem, tahle kopie skupinu nasměruje dál.
+**Kopie obsahuje:** přepis kurýrní sítě — tranzitní body včetně **Veleharu** a poznámku o **Prameni** (chrám Pohlcujícího, rašeliniště tři dny východně, „V. opisuje"). Tedy i kdyby Soren utekl se zápisníkem, tahle kopie skupinu nasměruje dál.
 
 → [[📜 Sorenova korespondence a zápisky]] (Záloha mimo dům — tabulka větví)

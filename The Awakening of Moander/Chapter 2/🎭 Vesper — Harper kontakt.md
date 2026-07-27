@@ -74,7 +74,7 @@ Soren je konkrétní cíl. Co za ním stojí — to je otevřená otázka, ktero
 Vesper je trvalý kontakt — ne NPC, která zmizí po jedné scéně. Skupina ji může kontaktovat kdykoliv přes kurýrní síť Harperů.
 
 Reaguje na informace, které jí skupina pošle:
-- **Po rozboru fragmentu** — dodá první „wow": je to moanderitský obřad, ne dračí; dva spojené kulty. → viz [[🎲 DM — Session Guide]] (Chapter 2), sekce „První wow".
-- **Po nalezení Sorenových zápisků** — identifikuje Varanthosse jako jméno, které se v Harperských záznamech jednou objevilo (Amn, před třemi lety) — a nasměruje skupinu k **Moanderovu chrámu** pro úplný text, ne rovnou na Velehar.
+- **Po rozboru fragmentu** — dodá první dvě „wow": moanderitský obřad, ne dračí; čerstvý opis → originál existuje, nit k němu je Soren. → [[✨ Scéna — Vesper předává překlad]]
+- **Po nalezení Sorenových zápisků** — identifikuje Varanthosse jako jméno, které se v Harperských záznamech jednou objevilo (Amn, před třemi lety) — a potvrdí prioritu: **nejdřív Pramen (chrám), pak Velehar**. _„Nejdřív zjistěte, co zastavujete. Pak to zastavte."_
 - **Po nalezení úplného textu (Chapter 3)** — odepíše rychleji než obvykle: _„Sedm hlasů. To číslo se v Sammasterových textech opakuje. Pošlete mi všechno."_ Teprve teď začíná skládat jméno za stínem.
 - **Po přerušení Šepotu 2 (Velehar, Chapter 4)** — varování: _„V Baldurově Bráně se ptali po lidech vašeho popisu. Nevím kdo. Byli profesionální."_ Eskalace pomsty.

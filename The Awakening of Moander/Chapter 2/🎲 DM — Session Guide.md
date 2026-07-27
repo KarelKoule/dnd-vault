@@ -1,7 +1,7 @@
 
 ## Než začneš
 
-Přečti: [[🎭 Vesper — Harper kontakt]] · [[🕵️ Soren — Postava a Stat Block]] · [[🐍 Sorenova buňka — Starožitnosti U Zámořské truhly]] · [[🏙️ Baldurova Brána — Klíčová místa]] · [[📜 Sorenova korespondence a zápisky]] · [[🕯️ Matreous — dopis z Candlekeepu]]
+Přečti: [[🎭 Vesper — Harper kontakt]] · [[✨ Scéna — Vesper předává překlad]] · [[🕵️ Soren — Postava a Stat Block]] · [[🐍 Sorenova buňka — Starožitnosti U Zámořské truhly]] · [[🏙️ Baldurova Brána — Klíčová místa]] · [[📜 Sorenova korespondence a zápisky]] · [[🕯️ Matreous — dopis z Candlekeepu]]
 
 ---
 
@@ -19,7 +19,7 @@ Skupina vjíždí do Baldurovy Brány. V kapse mají jméno **Soren**, fialovou 
 - **Soren má v Bráně buňku — kompartmentalizovanou.** Krycí obchod se starožitnostmi „U Zámořské truhly", kde buňka shání komponenty a relikvie pro další rituály a rozesílá je na místa. Většina členů netuší, komu slouží; nikdo nezná adresu Sorenova domu. Buňka dává skupině nitky (slabý článek, převleky, vloupání, mrtvá schránka), ale žádná nevede rovnou k Sorenovi — chrání ho. → [[🐍 Sorenova buňka — Starožitnosti U Zámořské truhly]]
 - **Soren je příliš silný na přímý boj.** Při fyzickém ohrožení: Misty Step, Invisibility, ostraha jako clona.
 - **Zápisky jsou hlavní cíl.** Soren osobně řekne málo. Všechno podstatné je v zápisníku na stole v domě s modrou lucernou — proto ho skupina musí získat, klidně i ukrást.
-- **Harpeři fragment rozluští.** Vesper ho pošle učenci — výsledek do dne: rituál je prastarý moanderitský obřad, ne dračí; někdo spojil dva neslučitelné kulty. Co přesně probuzení dělá, fragment neodhalí — je ohořelý.
+- **Harpeři fragment rozluští.** Po návratu skupiny z hrobky předá Vesper rozbor: rituál je prastarý moanderitský obřad, ne dračí; fragment je čerstvý opis — originál existuje. Co probuzení dělá, ví jen originál. Kde je, ví jen Soren. → [[✨ Scéna — Vesper předává překlad]]
 
 ---
 
@@ -27,12 +27,12 @@ Skupina vjíždí do Baldurovy Brány. V kapse mají jméno **Soren**, fialovou 
 
 Kapitolu žene postupné odhalování měřítka, ne časový tlak. Každá vrstva je větší než předchozí:
 
-1. **Fragment není dračí.** Je moanderitský — o tisíc let starší než Kult Draka. *(Vesper / harfenický rozbor)*
-2. **Dva neslučitelné kulty drží někdo nad nimi.** Moanderitská relikvie a k ní poznámky rukou Kultu Draka by neměly být v jedněch rukou. *(Vesper — a fyzicky: relikvie v truhle obchodu U Zámořské truhly)*
+1. **Fragment není dračí.** Je moanderitský — o tisíc let starší než Kult Draka. *(→ [[✨ Scéna — Vesper předává překlad]])*
+2. **Je to čerstvý opis — originál existuje.** Ruka dračího písaře opsala moanderitský obřad: dva neslučitelné kulty v jedné ruce. Co probuzení dělá, ví jen originál — a jediná nit k němu je Soren. *(tamtéž — a fyzicky: relikvie v truhle obchodu U Zámořské truhly)*
 3. **Hollowford byl jeden ze šesti.** Skupina si myslela, že něco zastavila. Byl to jeden hlas z šesti běžících současně — a Šepot zněl dál. *(zápisky)*
 4. **Soren o jejich vítězství neví.** Zápisky jsou klidné, počítají Hollowford jako splněný. Zabili člověka, kterého tahle mašina ani nezaznamenala. *(zápisky)*
 5. **Šepty jdou po sobě přes celý Faerûn.** Existuje první, druhý… a nad Sorenem stojí Varanthos, který čeká na jeho potvrzení. *(zápisky)*
-6. **Nikdo neví, co probuzení dělá.** Ani Vesper, ani Matreous. Jádro rituálu shořelo → vede k Moanderovu chrámu. *(rozbor + zápisky dohromady)*
+6. **Originál leží v „Prameni" — chrámu Pohlcujícího.** Tři dny východně, Slovo vytesané v kameni, opisovač tam pracuje dál. Tam je odpověď, co probuzení dělá. *(zápisky → Kapitola 3)*
 
 ---
 
@@ -103,30 +103,30 @@ Zápisky jsou hlavní odměna kapitoly a Soren je nevydá dobrovolně. Cesty, ja
 **Sorenovy zápisky** → [[📜 Sorenova korespondence a zápisky]]
 - Šepoty jsou sekvenční a koordinované přes celý Faerûn
 - Hollowford byl jeden ze šesti hlasů prvního Šepotu — a Soren ho stále počítá jako splněný
+- **„Pramen" — chrám Pohlcujícího**, tři dny východně: tam leží originál rituálu vytesaný v kameni → Kapitola 3
 - Jméno **Varanthos** nad Sorenem
 - **Velehar** jako tranzitní bod — vede k Šepotu 2
 - Soren plánuje osobně dohlížet na obřad na dračích kostech
 
-**Fragment — harfenický rozbor**
+**Fragment — harfenický rozbor** → [[✨ Scéna — Vesper předává překlad]]
 - Rituál je prastarý moanderitský, ne dračí
-- Někdo spojil dva neslučitelné kulty
-- Co přesně probuzení dělá — fragment je ohořelý, chybí jádro → vede k Moanderovu chrámu
+- Fragment je čerstvý opis rukou Kultu Draka — dva neslučitelné kulty, originál existuje
+- Co přesně probuzení dělá — jádro shořelo, odpověď zná jen originál
 
 **Z obchodu** *(pokud ho skupina prohledá)* → [[🐍 Sorenova buňka — Starožitnosti U Zámořské truhly]]
 - Moanderitská relikvie + dračí poznámky, jak ji použít — fyzický důkaz spojení dvou kultů; materiál pro Vesper/Matreouse
 - Kniha zásilek s kódovými jmény odběratelů a tranzitními body (Velehar) — náznak, že buňka není jediná
 
 **Co skupina stále neví:**
-- Kolik Šeptů celkem je
-- Co probuzení dělá
-- Kdo je Varanthos a kdo stojí nad ním
+- Co probuzení dělá *(ví jen originál — Kapitola 3; z fragmentu znají jen počet: sedm)*
+- Kdo je „Mistr", kdo je Varanthos a kdo stojí nad ním
 
 ---
 
 ## Most do Kapitoly 3
 
-Skupina má zápisky (*kdo, kde, kdy*) a fragment (*co rituál je*). Chybí jádro: úplné znění rituálu — co probuzení dělá a jak ho zastavit. Vede k Moanderovu chrámu.
+Skupina má zápisky (*kdo, kde, kdy* — a hlavně **kde je Pramen**) a fragment (*co rituál je*). Chybí jádro: co probuzení dělá a jak ho zastavit. Odpověď je vytesaná v kameni chrámu Pohlcujícího — tři dny východně, a opisovač „V." tam právě teď opisuje pro druhý Šepot.
 
-> Vesper: _„Někdo tenhle obřad opsal — opisuje se z originálu. Moanderité měli chrámy; jeden leží v rašeliništích na východ odsud. Pokud někde existuje úplný text, je tam."_
+> Vesper: _„Pramen. Takže tam to celé začalo — a pořád to tam běží. Jestli chcete vědět, co ty Šepoty dělají, je jen jedno místo, kde to stojí celé."_
 
-> Matreous *(dopis, pokud mu skupina pošle výsledky)*: _„Moanderitský obřad, opisovaný rukou Kultu Draka. To by nemělo existovat. Najděte starý chrám Pohlcujícího. Místa zasvěcená Moanderovi nikdy úplně nezemřou. Jen spí."_
+> Matreous *(dopis, pokud mu skupina pošle výsledky)*: _„Moanderitský obřad, opisovaný rukou Kultu Draka. To by nemělo existovat. Buďte tam opatrní — místa zasvěcená Moanderovi nikdy úplně nezemřou. Jen spí."_
